@@ -11,7 +11,7 @@
 
 **Un-Official Python SDK for the Open Responses standard.**
 
-[Documentation](https://uday.github.io/openresponses-python/) | [Source Code](https://github.com/uday/openresponses-python) | [Bug Tracker](https://github.com/uday/openresponses-python/issues)
+[Documentation](https://udapy.github.io/openresponses-python/) | [Source Code](https://github.com/udapy/openresponses-python) | [Bug Tracker](https://github.com/udapy/openresponses-python/issues)
 
 </div>
 

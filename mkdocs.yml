@@ -1,8 +1,8 @@
 site_name: OpenResponses Python
 site_description: Official Python SDK for the Open Responses standard.
-site_url: https://uday.github.io/openresponses-python/
-repo_url: https://github.com/uday/openresponses-python
-repo_name: uday/openresponses-python
+site_url: https://udapy.github.io/openresponses-python/
+repo_url: https://github.com/udapy/openresponses-python
+repo_name: udapy/openresponses-python
 
 theme:
   name: material
