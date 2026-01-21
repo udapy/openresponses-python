@@ -28,7 +28,7 @@ test: ## Run tests (pytest)
 # --- Build ---
 
 build: ## Build distribution packages
-	uv run hatch build
+	uv build
 
 clean: ## Clean build artifacts and cache
 	rm -rf dist/
