@@ -9,7 +9,7 @@
 [![Docs](https://img.shields.io/github/deployments/uday/openresponses-python/github-pages?label=docs&style=flat-square)](https://uday.github.io/openresponses-python/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-**The official Python SDK for the Open Responses standard.**
+**Un-Official Python SDK for the Open Responses standard.**
 
 [Documentation](https://uday.github.io/openresponses-python/) | [Source Code](https://github.com/uday/openresponses-python) | [Bug Tracker](https://github.com/uday/openresponses-python/issues)
 
@@ -21,11 +21,11 @@
 
 ## ✨ Features
 
-- **🚀 Standardization**: Strict Pydantic V2 models for `InputText`, `MessageItem`, `ReasoningItem`, `ToolCallItem`, ensuring type safety and validation.
-- **⚡ High Performance**: Built on `httpx` with full async/await support and efficient streaming.
-- **🧠 Semantic Streaming**: First-class support for streaming reasoning (thinking) and text deltas separately.
-- **🔌 Provider Agnostic**: Seamlessly switch between OpenRouter, OpenAI, Ollama, LM Studio, and HuggingFace TGI.
-- **🛠️ Developer-First**: Fully typed, thoroughly tested, and ready for production.
+- ** Standardization**: Strict Pydantic V2 models for `InputText`, `MessageItem`, `ReasoningItem`, `ToolCallItem`, ensuring type safety and validation.
+- ** High Performance**: Built on `httpx` with full async/await support and efficient streaming.
+- ** Semantic Streaming**: First-class support for streaming reasoning (thinking) and text deltas separately.
+- ** Provider Agnostic**: Seamlessly switch between OpenRouter, OpenAI, Ollama, LM Studio, and HuggingFace TGI.
+- ** Developer-First**: Fully typed, thoroughly tested, and ready for production.
 
 ## 📦 Installation
 
