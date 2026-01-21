@@ -1,7 +1,7 @@
 # OpenResponses Python
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official Python SDK for the **Open Responses** standard. This library provides Pydantic models, a client SDK, and utilities to build compliant servers/providers.
+Un-Official Python SDK for the **Open Responses** standard. This library provides Pydantic models, a client SDK, and utilities to build compliant servers/providers.
 
 ## Features
 
