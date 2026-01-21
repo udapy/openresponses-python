@@ -21,11 +21,11 @@
 
 ## ✨ Features
 
-- ** Standardization**: Strict Pydantic V2 models for `InputText`, `MessageItem`, `ReasoningItem`, `ToolCallItem`, ensuring type safety and validation.
-- ** High Performance**: Built on `httpx` with full async/await support and efficient streaming.
-- ** Semantic Streaming**: First-class support for streaming reasoning (thinking) and text deltas separately.
-- ** Provider Agnostic**: Seamlessly switch between OpenRouter, OpenAI, Ollama, LM Studio, and HuggingFace TGI.
-- ** Developer-First**: Fully typed, thoroughly tested, and ready for production.
+- **Standardization**: Strict Pydantic V2 models for `InputText`, `MessageItem`, `ReasoningItem`, `ToolCallItem`, ensuring type safety and validation.
+- **High Performance**: Built on `httpx` with full async/await support and efficient streaming.
+- **Semantic Streaming**: First-class support for streaming reasoning (thinking) and text deltas separately.
+- **Provider Agnostic**: Seamlessly switch between OpenRouter, OpenAI, Ollama, LM Studio, and HuggingFace TGI.
+- **Developer-First**: Fully typed, thoroughly tested, and ready for production.
 
 ## 📦 Installation
 
