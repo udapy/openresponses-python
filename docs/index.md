@@ -1,6 +1,6 @@
 # Welcome to OpenResponses Python
 
-The official Python SDK for the **Open Responses** standard.
+The Un-official Python SDK for the **Open Responses** standard.
 
 `openresponses-python` provides typed Pydantic models, a flexible client SDK, and utilities for building compliant providers.
 
