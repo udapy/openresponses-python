@@ -2,11 +2,8 @@
 
 <div align="center">
 
-[![PyPI version](https://img.shields.io/pypi/v/openresponses-python.svg?style=flat-square)](https://pypi.org/project/openresponses-python/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/openresponses-python.svg?style=flat-square)](https://pypi.org/project/openresponses-python/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/uday/openresponses-python/test.yml?branch=main&style=flat-square&label=tests)](https://github.com/uday/openresponses-python/actions)
-[![Docs](https://img.shields.io/github/deployments/uday/openresponses-python/github-pages?label=docs&style=flat-square)](https://uday.github.io/openresponses-python/)
+[![Docs](https://img.shields.io/badge/Read_the_Docs-blue?logo=github)](https://udapy.github.io/openresponses-python/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 **Un-Official Python SDK for the Open Responses standard.**
