@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "openresponses-python"
-version = "0.1.0"
-description = "Official Python SDK for the Open Responses standard"
+version = "0.1.2"
+description = "Un-Official Python SDK for the Open Responses standard"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
 license = "MIT"
 authors = [
-    { name = "Uday", email = "uday@example.com" }
+    { name = "Uday", email = "udayphlk@gmail.com" }
 ]
 dependencies = [
     "pydantic>=2.0,<3.0",

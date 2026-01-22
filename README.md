@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Docs](https://img.shields.io/badge/Read_the_Docs-blue?logo=github)](https://udapy.github.io/openresponses-python/)
+[![PyPI](https://img.shields.io/pypi/v/openresponses-python.svg)](https://pypi.org/project/openresponses-python/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 **Un-Official Python SDK for the Open Responses standard.**
@@ -109,6 +110,17 @@ make test         # Run tests
 make lint         # Run linters
 make docs-serve   # Preview documentation
 ```
+
+## 🔮 Future Scope
+
+In alignment with the [Open Responses](https://github.com/uday/openresponses) standard, we are planning the following enhancements:
+
+- **Expanded Provider Ecosystem**: Native integrations for Anthropic, Google Vertex AI, and AWS Bedrock.
+- **Framework Adapters**: Drop-in compatibility with LangChain and LlamaIndex for seamless orchestration.
+- **Observability**: Built-in OpenTelemetry tracing for full visibility into requests and stream events.
+- **Enterprise resilience**: Advanced retries, circuit breakers, and failover strategies.
+- **Smart Caching**: Semantic caching strategies to reduce latency and API costs.
+- **CLI Tools**: A comprehensive CLI for testing providers and debugging stream deltas.
 
 ## 🤝 Contributing
 
